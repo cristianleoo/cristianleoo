@@ -7,12 +7,12 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cristianleo120](https://medium.com/@cristianleo120)
 
-- 📫 How to reach me **sb4788@columbia.edu**
+- 📫 How to reach me **cl4334@columbia.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cristian-leo/](https://www.linkedin.com/in/cristian-leo/)
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
