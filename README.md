@@ -3,8 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianleoo&label=Profile%20views&color=0e75b6&style=flat" alt="cristianleoo" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/@sbudugutta" target="blank"><img src="https://img.shields.io/twitter/follow/@sbudugutta?logo=twitter&style=for-the-badge" alt="@sbudugutta" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://cristianleoo.github.io/](https://cristianleoo.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@cristianleo120](https://medium.com/@cristianleo120)
