@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://cristianleoo.github.io/](https://cristianleoo.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@cristianleoo95](https://medium.com/@cristianleo120)
+- 📝 I regularly write articles on [https://medium.com/@cristianleo120](https://medium.com/@cristianleo120)
 
 - 📫 How to reach me **sb4788@columbia.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cristianleoo/](https://www.linkedin.com/in/cristian-leo/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/cristian-leo/](https://www.linkedin.com/in/cristian-leo/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
