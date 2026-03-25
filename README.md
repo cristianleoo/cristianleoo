@@ -1,82 +1,49 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+I'm+Cristian+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer" alt="Typing SVG" />
-</div>
+# Cristian Leo
 
-<div align="center">
-  <a href="https://cristianleoo.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cristian-leo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@cristianleo120">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:cl4334@columbia.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+Data Scientist at AWS working on AI, security, and agentic systems.
 
-<br>
+[Portfolio](https://cristianleoo.github.io) · [LinkedIn](https://www.linkedin.com/in/cristian-leo/) · [Medium](https://medium.com/@cristianleo120) · [Email](mailto:cristianleo120@gmail.com)
 
-<!-- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cristianleoo&style=for-the-badge&color=2F81F7" alt="Profile Views"/>
-</div> -->
+## Current Focus
 
-<div align="center">
-  <h2>💫 About Me</h2>
-  <p>
-    I'm a passionate Data Scientist with expertise in machine learning and AI. Currently focused on developing innovative solutions at the intersection of AI and real-world applications. I love turning complex data into actionable insights and building scalable ML systems.
-  </p>
-</div>
+- Building secure agentic systems and LLM-powered workflows.
+- Working on applied AI problems where reliability and security matter.
+- Writing about model internals, interpretability, and architecture trends.
 
-<details open>
-<summary><h2>🛠️ Tech Stack</h2></summary>
+## Selected Work
 
-<h3>💻 Programming Languages</h3>
+### Open source
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- [models-from-scratch-python](https://github.com/cristianleoo/models-from-scratch-python): Re-implementations of core machine learning models using Python and NumPy.
+- [rag-knowledge-graph](https://github.com/cristianleoo/rag-knowledge-graph): Retrieval-augmented generation with knowledge-graph-backed context retrieval.
+- [InfluencerPy](https://github.com/cristianleoo/InfluencerPy): Automation-focused CLI tooling for social workflows.
+- [montecarlo-portfolio-management](https://github.com/cristianleoo/montecarlo-portfolio-management): Quantitative finance and Monte Carlo risk analysis.
+- [Reinforcement-Learning](https://github.com/cristianleoo/Reinforcement-Learning): RL experiments and algorithm implementations.
 
-<h3>🧠 ML/DL & Data Science</h3>
+### Writing
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+- [I Dissected Two Language Models to Find Out Where They Hide Their Cybersecurity Knowledge](https://medium.com/@cristianleo120/i-dissected-two-language-models-to-find-out-where-they-hide-their-cybersecurity-knowledge-c48d2dc76a33)
+- [Recursive Language Models: The End of Context Rot](https://medium.com/@cristianleo120/recursive-language-models-the-end-of-context-rot-649fc51885ea)
+- [2026: The Year AI Goes Smarter, Not Bigger](https://medium.com/@cristianleo120/2026-the-year-ai-goes-smarter-not-bigger-646e34e700a4)
 
-<h3>☁️ Cloud & DevOps</h3>
+## Areas I Work In
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Large language models
+- AI security
+- Agentic systems
+- Interpretability
+- Applied ML engineering
+- Retrieval-augmented generation
 
-<h3>🗄️ Databases</h3>
+## Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</details>
+`Python` `TypeScript` `C++` `PyTorch` `AWS` `Docker` `RAG` `LLMs`
 
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=cristianleoo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Cristian's GitHub Stats"/>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianleoo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianleoo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</details>
+## GitHub
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianleoo&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianleoo&hide_border=true&layout=compact)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  <br/><br/>
-  <i>Let's connect and build something amazing together! 🚀</i>
-</div>
+## Reach Out
+
+If you're working on AI infrastructure, model behavior, security, or research-heavy product ideas, feel free to get in touch.
